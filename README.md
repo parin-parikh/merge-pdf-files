@@ -52,6 +52,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgments
 
-- [PyPDF2]([https://pythonhosted.org/PyPDF2/](https://pypi.org/project/PyPDF2/)): A Python library for reading and writing PDF files.
+PyPDF2: A Python library for reading and writing PDF files.
 
 Feel free to customize this README to fit the specific details of your project.
